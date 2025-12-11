@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "斜陽",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-11T02:11:41.927256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "斜陽",
+      "artist": "スガシカオ",
+      "has_synced": true,
+      "path": "select/01_斜陽_スガシカオ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "斜陽",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/02_斜陽_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "斜陽(REFLECTION)",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/03_斜陽(REFLECTION)_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "斜陽 (Reflection)",
+      "artist": "Minako Yoshida",
+      "has_synced": false,
+      "path": "select/04_斜陽_(Reflection)_Minako_Yoshida.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "斜陽 - Setting Sun",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_斜陽_-_Setting_Sun_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "斜陽 - Setting Sun",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_斜陽_-_Setting_Sun_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "斜陽 - Setting Sun",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_斜陽_-_Setting_Sun_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "斜陽",
+      "artist": "ART-SCHOOL",
+      "has_synced": true,
+      "path": "select/08_斜陽_ART-SCHOOL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "斜陽",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/09_斜陽_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "斜陽 - Setting Sun",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/10_斜陽_-_Setting_Sun_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "斜陽",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/11_斜陽_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "斜陽 - Setting Sun",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/12_斜陽_-_Setting_Sun_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "斜陽(’06 LIQUIDROOM)",
+      "artist": "Suga, Shikao",
+      "has_synced": true,
+      "path": "select/13_斜陽(’06_LIQUIDROOM)_Suga,_Shikao.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "斜陽",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_斜陽_ヨルシカ.txt"
+    }
+  ]
+}
